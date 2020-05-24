@@ -4,3 +4,5 @@ A portfolio of my independent data science projects using Python, involving data
 The list of projects is as follows:
 
 * __Predicting Flight Arrival Delays__ - attempting to build a model that can predict the arrival delay of flights, using information available at take-off, for the The U.S. Department of Transportation's 2015 Domestic Flights dataset.
+
+* __Predicting Winners of Diamond Ranked Matches in League of Legends__ - attempting to build a model that can predict the winners of diamond ranked matches in the very popular competitive strategy game, League of Legends. 

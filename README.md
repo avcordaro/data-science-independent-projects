@@ -9,4 +9,7 @@ The list of projects is as follows:
 
 * __Recognising Sign Language Hand Gestures__ - attempting to build a visulation model that can accurately recognise sign language hand gestures (from Amercian Sign Language) and map them to the letters in the alphabet that they represent.
 
+* __Recognising Blood Cell Types from Sample Images__ - attempting to build a visualisation model that can recognise and classify blood cell types, from images of blood cell samples. 
+
+
 

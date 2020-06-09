@@ -11,5 +11,4 @@ The list of projects is as follows:
 
 * __Recognising Blood Cell Types from Sample Images__ - attempting to build a visualisation model that can recognise and classify blood cell types, from images of blood cell samples. 
 
-
-
+* __Detecting Pneumonia from Chest X-Rays__ - attempting to build a visualisation model that can predict whether a patient has pneumonia from their chest x-ray.

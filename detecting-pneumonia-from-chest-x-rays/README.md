@@ -1,5 +1,5 @@
 # Detecting Pneumonia from Chest X-Rays
-__Libraries:__ PyTorch, scikit-learn, PIL, cv2, seaborn, matplotlib
+__Libraries:__ PyTorch, scikit-learn, numpy, PIL, cv2, seaborn, matplotlib
 
 In this project, I attempt to build a visualisation model that can predict whether a patient has pneumonia from their chest x-ray. The datatset used contains roughly 6000 images of chest x-rays, for which the patients either have pneumonia, or are completely healthy.  
 

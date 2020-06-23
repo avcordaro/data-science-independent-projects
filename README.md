@@ -12,3 +12,5 @@ The list of projects is as follows:
 * __Recognising Blood Cell Types from Sample Images (Keras/Tensorflow)__ - attempting to build a visualisation model that can recognise and classify blood cell types, from images of blood cell samples. 
 
 * __Recognising Sign Language Hand Gestures (Keras/Tensorflow)__ - attempting to build a visulation model that can accurately recognise sign language hand gestures (from Amercian Sign Language) and map them to the letters in the alphabet that they represent.
+
+* __Sentiment Analysis on Musical Instrument Reviews (scikit-learn/spaCy/Keras)__ - attempting to build a model that can predict the overall star rating (1 to 5) of a review for a musical instrument, based on the review text written by a user. In addition, attempting to build a model that can classify the sentiment of the review between positive and negative, based on the review text.

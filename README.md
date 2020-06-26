@@ -5,6 +5,8 @@ The list of projects is as follows:
 
 * __Detecting Pneumonia from Chest X-Rays (PyTorch)__ - attempting to build a visualisation model that can predict whether a patient has pneumonia from their chest x-ray.
 
+* __Movie Recommender using Collaborative Filtering (pandas)__ - building a movie recommender using collaborative filtering. In this instance, this means that movies are recommended based on user ratings.
+
 * __Movie Recommender using Content Filtering (pandas)__ - building a movie recommender using content filtering. This means that given a movie, it recommends other movies to the user based on similar content (description, keywords, cast, crew, etc...).
 
 * __Predicting Flight Arrival Delays (scikit-learn)__ - attempting to build a model that can predict the arrival delay of flights, using information available at take-off, for the The U.S. Department of Transportation's 2015 Domestic Flights dataset.

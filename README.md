@@ -3,6 +3,8 @@ A portfolio of my independent data science projects using Python, involving data
 
 The list of projects is as follows:
 
+* __Amazon US Stock Market Prediction (Keras/Tensorflow)__ - attempting to build two LTSM models, one for one-step prediction, and one multi-step prediction of Amazon's closing stock market value.
+
 * __Detecting Pneumonia from Chest X-Rays (PyTorch)__ - attempting to build a visualisation model that can predict whether a patient has pneumonia from their chest x-ray.
 
 * __Movie Recommender using Collaborative Filtering (pandas)__ - building a movie recommender using collaborative filtering. In this instance, this means that movies are recommended based on user ratings.

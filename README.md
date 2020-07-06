@@ -1,5 +1,5 @@
 # Data Science Independent Projects - Python
-A portfolio of my independent data science projects using Python, involving data visualisation, cleaning and building models. Libraries used include pandas, matplotlib, seaborn, numpy, tensorflow and sklearn.
+A portfolio of my independent data science projects using Python, involving data visualisation, cleaning and building models. Libraries used include tensorflow, sklearn, pandas, matplotlib, seaborn and numpy.
 
 The list of projects is as follows:
 
@@ -8,6 +8,8 @@ The list of projects is as follows:
 * __Detecting Pneumonia from Chest X-Rays (PyTorch)__ - attempting to build a visualisation model that can predict whether a patient has pneumonia from their chest x-ray.
 
 * __Forecasting Change in Global Average Land Temperature (Keras/Tensorflow)__ - attempting to build a LTSM model that can forecast the global average land temperature based on previous years of temperature readings.
+
+* __Predicting House Prices - Kaggle Competiton (scikit-learn)__ - my attempt at Kaggle's House Prices competition, in which you have to predict the sale price of houses based on 79 features. The dataset is small but great for practicing techniques such as data cleaning, feature engineering, and building powerful regression models.
 
 * __Movie Recommender using Collaborative Filtering (pandas)__ - building a movie recommender using collaborative filtering. In this instance, this means that movies are recommended based on user ratings.
 

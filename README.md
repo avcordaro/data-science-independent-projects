@@ -5,7 +5,7 @@ The list of projects is as follows:
 
 * __Detecting Pneumonia from Chest X-Rays (PyTorch)__ - attempting to build a visualisation model that can predict whether a patient has pneumonia from their chest x-ray.
 
-* __Forecasting Change in Global Average Land Temperature (Keras/Tensorflow)__ - attempting to build a LTSM model that can forecast the global average land temperature based on previous years of temperature readings.
+* __Forecasting Change in Global Average Land Temperature (Keras/Tensorflow)__ - comparing a LTSM model with an ARIMA model that can forecast the global average land temperature based on previous years of temperature readings.
 
 * __Forecasting Microsoft Stock Market Value (Keras/Tensorflow)__ - attempting to build two LTSM models, one for one-step prediction, and one multi-step prediction of Microsoft's closing stock market value.
 

@@ -2,12 +2,14 @@ import re
 import os
 import pickle
 from flask import Flask, request
+from flask_cors import CORS, cross_origin
 
 model = None
 cv = None
 sp = None
 app = Flask(__name__)
-
+cors = CORS(app)
+app.config['CORS_HEADERS'] = 'Content-Type'
 
 def load_objects():
     global model, cv, sp
@@ -23,6 +25,7 @@ def preprocess(text):
 
 
 @app.route('/', methods=['POST'])
+@cross_origin()
 def get_prediction():
     data = request.data.decode('UTF-8')
     processed_text = preprocess(data)
@@ -32,4 +35,4 @@ def get_prediction():
 
 if __name__ == '__main__':
     load_objects() 
-    app.run(host='0.0.0.0', port=int(os.environ.get('PORT', 8080)))
+    app.run(host='127.0.0.1', port=5000)

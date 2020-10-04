@@ -23,4 +23,6 @@ The list of projects is as follows:
 
 * __Recognising Sign Language Hand Gestures (Keras/Tensorflow)__ - attempting to build a visulation model that can accurately recognise sign language hand gestures (from Amercian Sign Language) and map them to the letters in the alphabet that they represent.
 
+* __Sentiment Analysis of Tweets (scikit-learn)__ - attempting to build a model that can classify the sentiment of a tweet, between positive and negative. The dataset used contains 1.6million tweets. The purpose of this project is to gain experience in deploying this model onto a webpage using cloud services, so that it can forever be used to predict the sentiment of tweets.
+
 * __Sentiment Analysis on Musical Instrument Reviews (scikit-learn/spaCy/Keras)__ - attempting to build a model that can predict the overall star rating (1 to 5) of a review for a musical instrument, based on the review text written by a user. In addition, attempting to build a model that can classify the sentiment of the review between positive and negative, based on the review text.

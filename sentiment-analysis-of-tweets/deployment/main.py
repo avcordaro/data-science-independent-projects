@@ -1,4 +1,5 @@
 import re
+import os
 import pickle
 from flask import Flask, request
 
@@ -31,4 +32,4 @@ def get_prediction():
 
 if __name__ == '__main__':
     load_objects() 
-    app.run(host='127.0.0.1', port=80)
+    app.run(host='0.0.0.0', port=int(os.environ.get('PORT', 8080)))
